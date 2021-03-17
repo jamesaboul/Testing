@@ -1,9 +1,9 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-title: ''
-labels: ''
-assignees: ''
+title: Default title.  No, not the title to your car...
+labels: bug, documentation, enhancement, help wanted, question
+assignees: jamesaboul
 
 ---
 

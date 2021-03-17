@@ -2,8 +2,8 @@
 name: Bug report
 about: Create a report to help us improve
 title: ''
-labels: ''
-assignees: ''
+labels: bug, duplicate, help wanted, invalid, wontfix
+assignees: jamesaboul
 
 ---
 
